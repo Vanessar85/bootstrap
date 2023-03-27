@@ -1,0 +1,182 @@
+
+/*BODY*/
+
+/*HEADER*/
+
+header{
+    background-color: #2C3E50;
+    font-family: 'montserrat';
+#container{
+width: 100%;
+
+#navbar{
+    background-color: #2C3E50;
+    width: 80%;
+    height: 34px;
+    text-transform: uppercase;
+    height: max-content;
+    
+#navbarNav{
+    justify-content: flex-end;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+}
+
+}
+
+
+#hero{
+    font-family: 'montserrat';
+    background-color: #1ABC9C;
+    height: auto;
+    padding-bottom: 4%;
+    padding-top: 4%;
+#avatar{
+   margin: auto;
+   h2{
+    font-weight: 700;
+    text-transform: uppercase;
+   }
+   #separator{
+
+    padding-bottom: 3%;
+    hr{
+        color: white;
+        width: 15%;
+        border: solid 2px;
+        opacity: 100%;
+    }
+    i{
+        color: white;
+        font-size: 2em;
+    }
+   }
+   .test{
+    font-size: 0.8em!important;
+   }
+}
+}
+}
+
+
+#sectionportfolio{
+    font-family: 'montserrat';
+    padding-bottom: 4%;
+    padding-top: 4%;
+    h3{
+        font-weight: 900;
+        font-size: 4em;
+    }
+
+
+    #separator2{
+        padding-bottom: 1%;
+        hr{
+            color: #2C3E50;
+            width: 8%;   
+            border: solid 2px;
+            opacity: 100%;
+        }
+        i{
+            color: #2C3E50;
+            font-size: 2em;
+        }
+       }
+}
+#about{
+    font-family: 'montserrat';
+    padding-bottom: 4%;
+    padding-top: 4%;
+    h3{
+        font-weight: 900;
+    }
+    #separator3{
+        padding-bottom: 2%;
+    hr{
+        color: white;
+        width: 8%;  
+        border: solid 2px;
+        opacity: 100%;      
+
+    }
+    i{
+        color: white;
+        font-size: 2em;
+    }
+   
+}
+
+}
+#contactme{
+    font-family: 'montserrat';
+    padding-bottom: 4%;
+    padding-top: 4%;
+    h3{
+        font-weight: 900;
+    }
+    hr{
+        color: #2C3E50;
+        width: 8%;  
+        border: solid 2px;
+        opacity: 100%;     
+ 
+
+    }
+    i{
+        color: #2C3E50;
+        font-size: 2em;
+    }
+    #formulaire{
+        width: 60%;
+        margin: auto;
+        padding-bottom: 6%;
+        padding-top: 6%;
+        #fullname{
+            padding-bottom: 3%;
+        }
+        #mail{
+            padding-bottom: 3%;
+        }
+        #phone{
+            padding-bottom: 3%;
+        }
+        #message{
+            padding-bottom: 3%;
+            
+        }
+    }
+
+    .btn{
+        background-color: #1ABC9C;
+        border: #1ABC9C;
+    }
+}
+
+footer{
+
+    font-family: 'montserrat';
+
+    #footercontainer{
+        padding-bottom: 3%;
+        padding-top: 3%;
+
+    }
+    .toto{
+        letter-spacing: 3px;
+    }
+    #iconesweb{
+        border-color: #2C3E50 !important;
+
+        span{
+            padding: 15px;
+        }
+        
+    }
+    #copyright{
+        height: 50px;
+       
+    }
+}
+
